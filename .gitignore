@@ -105,3 +105,6 @@ dist
 
 # apiKey
 src/apiKey.js
+
+# archivo de practica
+src/practica.js
